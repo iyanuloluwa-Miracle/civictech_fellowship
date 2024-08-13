@@ -4,7 +4,7 @@
             <span class="text-green-500 text-xl mr-1">
                 <img src="../assets/shield.png" alt="logo image" class="w-9 h-9" />
             </span>
-            <h1 class="text-xl font-extrabold">Alert Patrol</h1>
+            <h1 class="text-xl font-extrabold">EcoGuard</h1>
         </div>
 
         <span @click="MenuOpen()" class="absolute md:hidden right-6 top-1.5 text-5xl cursor-pointer">
