@@ -6,7 +6,7 @@
                     class="max-w-xl text-[2.9rem] leading-none text-gray-900 font-extrabold text-center lg:text-5xl lg:text-left lg:leading-tight mb-5">
                     Report Pollution and Protect Our Environment.
                 </h1>
-                <p class="max-w-xl text-center text-gray-500 lg:text-left lg:max-w-md font-semibold">
+                <p class="max-w-xl text-center text-gray-500 lg:text-left lg:max-w-md font-semibold text-[19px]">
                     Empower your community by reporting environmental issues and making a difference.
                 </p>
                 <div class="flex justify-center mt-14 lg:justify-start">

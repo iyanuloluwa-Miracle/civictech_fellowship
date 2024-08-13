@@ -36,7 +36,6 @@ export default {
         let open = ref(false);
         let Links = [
             { name: "Home", link: "#" },
-            { name: "How It Works", link: "#" },
             { name: "Features", link: "#" },
             { name: "About Us", link: "#" },
             { name: "Contact", link: "#" },
