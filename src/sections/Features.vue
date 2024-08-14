@@ -10,8 +10,7 @@
         <div class="container mx-auto">
             <section class="flex flex-wrap items-center justify-center gap-10">
 
-
-                <div class="bg-white p-10 rounded-md shadow-md hover:bg-TiffanyBlue lg:max-w-sm">
+                <div class="bg-white p-10 rounded-md hover:bg-[#b5fcb5] lg:max-w-sm shadow-2xl">
                     <img src="../assets/pollution.svg" alt="barcode" width="35" class="mb-5 mx-auto" />
                     <h4 class="text-2xl font-bold mb-5 lg:text-4xl lg:max-w-xs mx-auto">
                         Instant Pollution Reporting
@@ -22,7 +21,7 @@
                     </p>
                 </div>
 
-                <div class="bg-white p-10 rounded-md shadow-md hover:bg-TiffanyBlue lg:max-w-sm">
+                <div class="bg-white p-10 rounded-md  hover:bg-[#b5fcb5] lg:max-w-sm">
                     <img src="../assets/map 1.svg" alt="barcode" width="35" class="mb-5 mx-auto" />
                     <h4 class="text-2xl font-bold mb-5 lg:text-4xl lg:max-w-xs mx-auto">
                         Interactive Map Visualization
@@ -33,7 +32,7 @@
                     </p>
                 </div>
 
-                <div class="bg-white p-10 rounded-md shadow-md hover:bg-TiffanyBlue lg:max-w-sm">
+                <div class="bg-white p-10 rounded-md  hover:bg-[#b5fcb5] lg:max-w-sm">
                     <img src="../assets/notification 1.svg" alt="user" width="35" class="mb-5 mx-auto" />
                     <h4 class="text-2xl font-bold mb-5 lg:text-4xl lg:max-w-xs mx-auto">
                         Real-Time Notifications
@@ -44,13 +43,9 @@
                     </p>
                 </div>
 
-
-
             </section>
         </div>
     </section>
 </template>
 
-<script>
 
-</script>
