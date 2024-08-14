@@ -6,8 +6,8 @@
             class="flex flex-col-reverse lg:flex-row items-center justify-around lg:space-x-8 space-y-8 lg:space-y-0 px-4 py-8">
 
             <div class="lg:max-w-2xl text-center lg:text-left">
-                <h2 class="text-2xl lg:text-4xl font-bold mb-4 text-[#228B22]">Our Mission</h2>
-                <p class="text-lg lg:text-xl font-semibold text-[#228B22] mb-6">
+                <h2 class="text-3xl lg:text-4xl font-bold mb-4 text-gray-900">Our Mission</h2>
+                <p class="text-lg lg:text-xl font-semibold text-gray-500  mb-6">
                     At EcoGuard, we are committed to empowering communities to take action against environmental
                     pollution. Our platform provides an accessible and effective way for individuals to report pollution
                     incidents, helping to create a cleaner and safer environment for everyone. By leveraging technology,
