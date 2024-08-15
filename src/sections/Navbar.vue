@@ -38,7 +38,6 @@ export default {
             { name: "Home", link: "#"},
             { name: "Features", link: "#" },
             { name: "About Us", link: "#" },
-            { name: "Contact", link: "#" },
         ];
 
         function MenuOpen(){
