@@ -19,7 +19,12 @@
             <li class="md:mx-4 md:my-0 my-6" v-for="link in Links" :key="link.name">
                 <a :href="link.link" class="text-xl font-bold hover:text-green-500">{{ link.name }}</a>
             </li>
-            <Button>Get Started</Button>
+
+            <router-link to="/comingsoon">
+                <Button>Get Started</Button>
+
+            </router-link>
+
         </ul>
     </div>
 </template>
