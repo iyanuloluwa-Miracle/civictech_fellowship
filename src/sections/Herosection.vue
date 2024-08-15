@@ -10,8 +10,16 @@
                     Empower your community by reporting environmental issues and making a difference.
                 </p>
                 <div class="flex justify-center mt-14 lg:justify-start">
-                    <Button>Learn More</Button>
-                    <Button class="ml-5">Get Started</Button>
+                    <router-link to="/comingsoon">
+                        <Button>Learn More</Button>
+                    </router-link>
+
+
+                    <router-link to="/comingsoon">
+                        <Button class="ml-5">Get Started</Button>
+
+                    </router-link>
+
                 </div>
             </div>
             <div class="lg:w-1/2 flex justify-center">
