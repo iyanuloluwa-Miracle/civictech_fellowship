@@ -15,9 +15,14 @@
                     addressed swiftly and transparently. Together, we can protect our planet and build a sustainable
                     future.
                 </p>
-                <Button
-                    class="bg-[#228B22] text-white font-semibold py-3 px-8 rounded-md shadow-md hover:bg-[#1b7028] transition-colors duration-300">Learn
-                    More</Button>
+
+                <router-link to="/comingsoon">
+                    <Button
+                        class="bg-[#228B22] text-white font-semibold py-3 px-8 rounded-md shadow-md hover:bg-[#1b7028] transition-colors duration-300">Learn
+                        More</Button>
+
+                </router-link>
+
             </div>
 
             <div class="flex-shrink-0 w-full lg:w-auto">
